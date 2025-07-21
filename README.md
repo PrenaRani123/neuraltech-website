@@ -1,4 +1,4 @@
-# TechCorp - Modern Business Website
+# NeuralTech - Modern Business Website
 
 A modern, responsive business website built with React and Tailwind CSS for a technology company specializing in AI solutions, web development, and data analytics.
 
@@ -138,7 +138,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 📞 Support
 
 For questions or support, please contact:
-- Email: hello@techcorp.com
+- Email: hello@neuraltech.com
 - Phone: +1 (555) 123-4567
 
 ---
